@@ -1434,10 +1434,14 @@ body {
   margin-left: 10px;
 }
 
+.skills{
+  text-align: center;
+}
 .mh-about-tag {
   word-break: break-all;
   margin-bottom: 10px;
   margin-top: 10px;
+  text-align: center;
 }
 .mh-about-tag ul li {
   margin: 0px 6px;
